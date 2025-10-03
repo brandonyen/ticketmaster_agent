@@ -2,7 +2,7 @@
 
 This project demonstrates a simple implementation of the Claude Agent SDK to retrieve events in an area with the Ticketmaster API.
 
-0. Define environment variables
+0. Define environment variables (.env)
 
 ```
 TICKETMASTER_API_KEY = <your_api_key>
